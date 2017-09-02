@@ -62,7 +62,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -72,11 +72,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Marco Sirabella** - *Initial work* - [mjsir911](https://github.com/mjsir911)
 
-See also the list of [contributors](https://github.com/mjsir911/project/docs/contributors) who participated in this project.
+See also the list of [contributors](docs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](docs/LICENSE.md) file for details
 
 ## Acknowledgments
 
