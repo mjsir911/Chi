@@ -58,7 +58,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* ViM - Test editor
+* ViM - Text editor
 * Maven - Maybe
 * Atom - ergaerga
 
