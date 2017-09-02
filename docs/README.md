@@ -1,6 +1,11 @@
-# Project Title
+# Chi
 
-One Paragraph of project description goes here
+Chi is a mod for [rimworld](https://rimworldgame.com/). It is an attempt to
+bridge multiple clients together to be able to have two separate colonies
+cooperate or feud.
+
+Right now only the source code is available, but maybe one day it will be
+developed enough to be put on the steam workshop.
 
 ## Getting Started
 
@@ -8,53 +13,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisities
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+- C# Compiler
+- [Rimworld](https://rimworldgame.com/)
+TBD
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Stay what the step will be
-
+To install, compile the code:
 ```
-Give the example
+gcc# TBD.c#
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+And move the .dll files to your rimworld mod directory (TODO: figure out how to
+do this)
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Functional tests probably won't exist, but im not opposed to them
 
 ### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Styling tests ARE a good idea though, clean code is good code
 
 ## Built With
 
